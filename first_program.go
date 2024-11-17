@@ -3,5 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Asib is a Student")
+	fmt.Print("This is Go")
+	fmt.Println("Hi Go Programming Language")
+	fmt.Printf("Bangladesh")
+	fmt.Println("Hi Asib")
 }
